@@ -31,7 +31,7 @@ header p{
     
 }
 section{
-    background-image: url(background001.jpg);
+    background-image: url(../imagens/background001.jpg);
     font-weight: normal;
     background-position: center center;
     background-attachment: fixed;
@@ -67,7 +67,7 @@ main p{
 
 }
 #I2{
-    background-image: url(background002.jpg);
+    background-image: url(../imagens/background002.jpg);
 }
 footer{
     background-color: black;
